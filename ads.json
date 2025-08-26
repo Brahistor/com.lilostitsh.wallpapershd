@@ -3,7 +3,7 @@
     "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
-    "AdmobClick":4,
+    "AdmobClick":2,
     "BannerAds":"bb",
     "InterstitialAds":"bb",
     "NativeAds":"bb",
